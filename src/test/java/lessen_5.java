@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selenide.*;
 public class lessen_5 {
 
     @Test
-        // Откырть GitHub
+        // Откырть  GitHub
         // Выбрать меню Solutions -> Enterprize с помощью команды hover для Solutions.
         // Проверить, что на странице  есть заголовок - "Build like the best."
     void checkingPresenceText() {
