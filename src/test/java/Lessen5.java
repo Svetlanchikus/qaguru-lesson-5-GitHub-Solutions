@@ -6,7 +6,7 @@ import static com.codeborne.selenide.DragAndDropOptions.to;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
 
-public class lessen_5 {
+public class Lessen5 {
 
     @Test
         // Откырть  GitHub
